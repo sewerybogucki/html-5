@@ -5,7 +5,7 @@ body {
 
 #menu {
   text-align: center;
-  background: #222;
+  background: #258;
   
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 #menu .menu-item a:hover{
-  color: #999;
+  color: #654;
 }
 
 #header {
@@ -67,7 +67,7 @@ body {
 
 #contact {
   padding: 30px 50px;
-  background: #222;
+  background: #282;
 }
 
 #contact #contact-header{
